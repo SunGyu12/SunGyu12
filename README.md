@@ -36,11 +36,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![SunGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunGyu&show_icons=true&theme=tokyonight)
+![SunGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunGyu12&show_icons=true&theme=tokyonight)
 
 </td><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunGyu&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunGyu12&layout=compact&theme=gotham)
 
 </td></tr></table>  
 
