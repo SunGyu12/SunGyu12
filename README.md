@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Seunghwan's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
@@ -48,4 +47,3 @@
 <br/>
 =======
 # SunGyu
->>>>>>> c591aac7d708e262bdf7fefb8ba2e158e57bdee3
