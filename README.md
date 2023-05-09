@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=SunGyu's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
@@ -45,3 +46,21 @@
 </td></tr></table>  
 
 <br/>
+=======
+### Hi there 👋
+
+<!--
+**SunGyu12/SunGyu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 496878e36b5815adf60b5a750974dcd0adc754cf
