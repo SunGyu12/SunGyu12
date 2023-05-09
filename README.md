@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=Seunghwan's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=300&section=header&text=SunGyu's%20GitHub%20&fontSize=60&desc=Welcome!&descAlignY=64&descAlign=67&fontColor=FFFFFF)
 
 <p align="center">
 안녕하세요👐<br>
@@ -36,11 +36,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![Seunghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghwankk&show_icons=true&theme=tokyonight)
+![SunGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunGyu&show_icons=true&theme=tokyonight)
 
 </td><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunghwankk&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunGyu&layout=compact&theme=gotham)
 
 </td></tr></table>  
 
